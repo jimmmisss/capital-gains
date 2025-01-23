@@ -32,7 +32,7 @@ Para construir e executar a aplicação usando Docker, siga estes passos:
 1. **Clone o repositório:**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/jimmmisss/capital-gains
    cd capital-gains
    ```
 
