@@ -1,0 +1,7 @@
+services:
+  capital-gains:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./input.txt:/root/input.txt
